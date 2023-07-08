@@ -57,8 +57,6 @@ Follow following steps:
 
 ![Prediction Page](https://github.com/Ahmad10Raza/Diamond-Price-Prediction/blob/master/templates/Images/predict.png)
 
-# Reference
-[PWSKILLS](www.pwskills.com)
 
 # Thank You!
    
